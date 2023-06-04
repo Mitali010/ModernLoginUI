@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440334779892",
+    "project_id": "authtut-83c64",
+    "storage_bucket": "authtut-83c64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440334779892:android:e581ec946c44f39128a5a1",
+        "android_client_info": {
+          "package_name": "com.modernui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440334779892-9ckte3bigr3mbiej927stjm03v62oiba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrajXbnLRuab1QYsTi_obPM21nx-BY_2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440334779892-72o6clik065h347ucife9i0l04l2517u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
